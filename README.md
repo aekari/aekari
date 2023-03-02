@@ -28,12 +28,13 @@
 #### TECH INTERESTS:
 
 - Creative coding & computing <br>
-- Innovative applications and technologies with strong, intuitive UX/UI features <br>
+- Innovative software and technologies with strong, intuitive UX/UI features <br>
 - Interactive/responsive design <br>
+- algorithms and logic <br> 
 - Accessable software and hardware (usable for newbies and pros alike) <br>
 - Generative/algorithmic art <br>
 - Animation <br>
-- Open source code <br>
+- Open source <br>
 - 3D printing <br>
 
 <hr>
