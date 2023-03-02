@@ -6,7 +6,7 @@
 
 <hr>
 
-#### TECHNICAL SKILLS:
+#### TECHNICAL, INDUSTRY-SPECIFIC SKILLS:
 
 - <strong>Markup & Programming Languages:</strong>  Java, SQL, Javascript, HTML, CSS, Processing 5 <br>
 - <strong>Software:</strong> Eclipse, Maven, Visual Studio, JIRA, Unity, JQuery, Acrobat Pro, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate <br>
@@ -14,6 +14,7 @@
 - <strong>Operating Systems:</strong> Windows, MAC OS <br>
 - <strong>Databases:</strong> JDBC, MySQL, Oracle SQL, SQL Server <br>
 - <strong>Frameworks:</strong> Spring MVC, Hibernate Validator, Bootstrap <br>
+- <strong>Project Management:</strong>: SCRUM & Agile methodology
 
 <hr>
 
