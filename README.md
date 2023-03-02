@@ -25,7 +25,7 @@
 
 <hr>
 
-#### THINGS I'M CURIOUS ABOUT:
+#### TECH INTERESTS:
 
 - Creative coding & computing <br>
 - Innovative applications and technologies with strong, intuitive UX/UI features <br>
