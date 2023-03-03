@@ -29,6 +29,7 @@
 #### TECH INTERESTS:
 
 - Creative coding & computing <br>
+- Full stack development <br>
 - Innovative software and technologies with strong, intuitive UX/UI features <br>
 - Interactive/responsive design <br>
 - algorithms and logic <br> 
