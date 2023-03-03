@@ -9,7 +9,7 @@
 #### TECHNICAL SKILLS:
 
 - <strong>Markup & Programming Languages:</strong>  Java, SQL, Javascript, HTML, CSS, Processing 5 <br>
-- <strong>Software:</strong> Eclipse, Maven, Visual Studio, JIRA, Unity, JQuery, Acrobat Pro, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate <br>
+- <strong>Software:</strong> Eclipse, Maven, Visual Studio, JIRA, JQuery, Acrobat Pro, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate <br>
 - <strong>Hardware:</strong> Wacom Intuos, Wacom Cintiq <br>
 - <strong>Operating Systems:</strong> Windows, MAC OS <br>
 - <strong>Databases:</strong> JDBC, MySQL, Oracle SQL, SQL Server <br>
