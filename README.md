@@ -37,7 +37,3 @@
 - Animation <br>
 - Open source <br>
 - 3D printing <br>
-
-<hr>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=aekari)
