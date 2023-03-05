@@ -1,6 +1,7 @@
 
 ## A S H L E I G H  E K A R I
-![https://www.linkedin.com/in/ashleighenichols](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=000)
+![https://www.linkedin.com/in/ashleighenichols](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=000) ![https://www.ashleighekari.com](https://img.shields.io/badge/-ashleighekari.com-000?style=flat-square)
+
 #### TECHNICAL SKILLS:
 
 - <strong>Markup & Programming Languages:</strong>  Java, SQL, Javascript, HTML, CSS, Processing 5 <br>
@@ -21,7 +22,7 @@
 
 <hr>
 
-#### TECH INTERESTS:
+#### TECH INTERESTS/THINGS I WANT TO LEARN MORE ABOUT:
 
 - Creative coding & computing <br>
 - Full stack development <br>
