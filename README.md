@@ -1,6 +1,6 @@
 
 ## A S H L E I G H  E K A R I
-
+![](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=000)
 #### TECHNICAL SKILLS:
 
 - <strong>Markup & Programming Languages:</strong>  Java, SQL, Javascript, HTML, CSS, Processing 5 <br>
@@ -15,9 +15,9 @@
 
 #### SOFT SKILLS:
 
-- Curiosity:       ▰▰▰▰▰▰▰▰▰▰▰▰▱ 99% <br>
-- Creativity:      ▰▰▰▰▰▰▰▰▰▰▰▰▱ 99% <br>
-- Ability to Learn: ▰▰▰▰▰▰▰▰▰▰▰▰▱ 99% <br>
+- Curiosity:       ▰▰▰▰▰▰▰▰▰▰▰▰▱<br>
+- Creativity:      ▰▰▰▰▰▰▰▰▰▰▰▰▱<br>
+- Ability to Learn: ▰▰▰▰▰▰▰▰▰▰▰▰▱<br>
 
 <hr>
 
