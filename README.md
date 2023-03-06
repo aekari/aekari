@@ -21,7 +21,7 @@
 
 <hr>
 
-#### TECH INTERESTS/THINGS I WANT TO LEARN MORE ABOUT:
+#### TECH INTERESTS (THINGS I WANT TO LEARN MORE ABOUT):
 
 - Creative coding & computing <br>
 - Full stack development <br>
