@@ -27,7 +27,7 @@
 - Full stack development <br>
 - Innovative software and technologies with strong, intuitive UX/UI features <br>
 - Interactive/responsive design <br>
-- algorithms and logic <br> 
+- Algorithms and logic <br> 
 - Accessable software and hardware (usable for newbies and pros alike) <br>
 - Generative/algorithmic art <br>
 - Animation <br>
