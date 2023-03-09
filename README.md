@@ -30,7 +30,7 @@
 - Algorithms and logic <br> 
 - Accessable software and hardware (usable for newbies and pros alike) <br>
 - Generative/algorithmic art <br>
-- Animation, all kinds <br>
+- Animation<br>
 - Opensource anything <br>
 - D̛̹̥̱̠̹́̽͒á̶͞t͟͟abè̵͠ņ͏d̶͟i̕ń̸͘g̵  and circuitbending<br>
 - Arduino, Rasperry Pi, etc. <br>
