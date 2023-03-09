@@ -33,7 +33,7 @@
 - Animation, all kinds <br>
 - Opensource anything <br>
 - D̛̹̥̱̠̹́̽͒á̶͞t͟͟abè̵͠ņ͏d̶͟i̕ń̸͘g̵  and circuitbending<br>
-- Arduino, RasperryPi, etc. <br>
+- Arduino, Rasperry Pi, etc. <br>
 - 3D printing <br>
 
 ![](https://images.squarespace-cdn.com/content/v1/55cf708be4b0d960b1718a9a/285e99ed-5acb-4fc3-b92c-1bd656cbfe2e/ezgif-3-4b3024f788.gif?format=200w)
