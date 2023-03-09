@@ -3,13 +3,15 @@
 [![name](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=000)](https://www.linkedin.com/in/ashleighenichols) [![name](https://img.shields.io/badge/-ashleighekari.com-000?&logo=squarespace&style=flat-square)](https://www.ashleighekari.com)
 #### TECHNICAL SKILLS:
 
-- <strong>Markup & Programming Languages:</strong>  Java, JavaScript, HTML, CSS, Processing<br>
-- <strong>Software:</strong> Eclipse, Maven, Visual Studio, JIRA, JQuery, Acrobat Pro, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate <br>
-- <strong>Hardware:</strong> Wacom Intuos, Wacom Cintiq <br>
-- <strong>Operating Systems:</strong> Windows, MAC OS <br>
-- <strong>Databases:</strong> JDBC, MySQL, Oracle SQL, SQL Server <br>
-- <strong>Frameworks:</strong> Spring MVC, Hibernate Validator, Bootstrap <br>
-- <strong>Project Management</strong>: SCRUM & Agile methodology
+- <strong>Markup & Programming Languages:</strong> HTML 5, CSS3, JavaScript, Java, Processing
+- <strong>Frameworks:</strong> Spring MVC, Spring Boot, Spring JDBC, Spring Hibernate ORM, Bootstrap
+- <strong>Databases:</strong> MySQL, Oracle
+- <strong>Software:</strong> Java SE, Java EE Servelet, JDBC, JSP, JSTL, JPA, Maven 3.0, Log 4j, RESTFUL Web Services, Apache Tomcat 7.0/8.0/8.5, Jenkins, JUnit, GIT, Acrobat Pro, Amazon Web Service (AWS) EC2
+- <strong>Project Management:</strong> E-R Diagram, UML modeling, SDLC, AGILE-SCRUM, Trello
+- <strong>IDEs:</strong> Eclipse, Visual STudio, IntelliJ
+- <strong>Design Software:</strong> Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate
+- <strong>Design Tools:</strong> Wacom Intuos, Wacom Cintiq
+- <strong>Operating Systems:</strong> Windows, MAC OS
 
 <hr>
 
