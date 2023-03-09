@@ -3,7 +3,7 @@
 [![name](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=000)](https://www.linkedin.com/in/ashleighenichols) [![name](https://img.shields.io/badge/-ashleighekari.com-000?&logo=squarespace&style=flat-square)](https://www.ashleighekari.com)
 #### TECHNICAL SKILLS:
 
-- <strong>Markup & Programming Languages:</strong>  Java, Javascript, HTML, CSS, Processing<br>
+- <strong>Markup & Programming Languages:</strong>  Java, JavaScript, HTML, CSS, Processing<br>
 - <strong>Software:</strong> Eclipse, Maven, Visual Studio, JIRA, JQuery, Acrobat Pro, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate <br>
 - <strong>Hardware:</strong> Wacom Intuos, Wacom Cintiq <br>
 - <strong>Operating Systems:</strong> Windows, MAC OS <br>
