@@ -9,7 +9,7 @@
 - <strong>Software:</strong> Java SE, Java EE Servelet, JDBC, JSP, JSTL, JPA, Maven 3.0, Log 4j, RESTFUL Web Services, Apache Tomcat 7.0/8.0/8.5, Jenkins, JUnit, GIT, Acrobat Pro, Amazon Web Service (AWS) EC2
 - <strong>Project Management:</strong> E-R Diagram, UML modeling, SDLC, AGILE-SCRUM, Trello
 - <strong>IDEs:</strong> Eclipse, Visual STudio, IntelliJ
-- <strong>Design Software:</strong> Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate
+- <strong>Design Software:</strong> Adobe Suite (Photoshop, Illustrator, InDesign, Premiere, Lightroom, etc), Canva, Procreate, Figma
 - <strong>Design Tools:</strong> Wacom Intuos, Wacom Cintiq
 - <strong>Operating Systems:</strong> Windows, MAC OS
 
