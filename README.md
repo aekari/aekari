@@ -32,7 +32,7 @@
 - Generative/algorithmic art <br>
 - Animation<br>
 - Opensource anything <br>
-- D̛̹̥̱̠̹́̽͒á̶͞t͟͟abè̵͠ņ͏d̶͟i̕ń̸͘g̵  and circuitbending<br>
+- D̛̹̥̱̠̹́̽͒á̶͞t͟͟abè̵͠ņ͏d̶͟i̕ń̸͘g and circuitbending<br>
 - Arduino, Rasperry Pi, etc. <br>
 - 3D printing <br>
 
