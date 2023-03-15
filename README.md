@@ -31,6 +31,7 @@
 - Interactive/responsive design <br>
 - Algorithms and logic <br> 
 - Accessable software and hardware (usable for newbies and pros alike) <br>
+- Java 2D <br>
 - Generative/algorithmic art <br>
 - Animation<br>
 - Opensource anything <br>
