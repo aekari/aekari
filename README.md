@@ -4,7 +4,7 @@
 #### TECHNOLOGIES:
 
 - <strong>Markup & Programming Languages:</strong> HTML 5, CSS3, JavaScript, Java, Processing
-- <strong>Frameworks:</strong> Spring (MVC, JDBC, Hybernate ORM, Boot), CSS Bootstrap
+- <strong>Frameworks:</strong> Spring (MVC, JDBC, Hybernate ORM, Boot), Bootstrap CSS
 - <strong>Databases:</strong> MySQL, Oracle
 - <strong>Software:</strong> Java SE, Java EE Servelet, JDBC, JSP, JSTL, JPA, Maven 3.0, Log 4j, RESTFUL Web Services, Apache Tomcat 7.0/8.0/8.5, Jenkins, JUnit, GIT, Acrobat Pro, Amazon Web Service (AWS) EC2
 - <strong>Project Management:</strong> E-R Diagram, UML modeling, SDLC, AGILE-SCRUM, Trello
