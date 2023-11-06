@@ -29,6 +29,7 @@
 - Fullstack development <br>
 - Innovative software and technologies with strong, intuitive UX/UI features <br>
 - Interactive/responsive design <br>
+- AI, LLMs<br>
 - Algorithms and logic <br> 
 - Accessable software and hardware (usable for newbies and pros alike) <br>
 - Java 2D <br>
